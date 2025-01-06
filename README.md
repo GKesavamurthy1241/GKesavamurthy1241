@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-<h1 align="center">Hi, I'm Gathram Kesava Murthy</h1>
+<h1 align="center"> I'm Gathram Kesava Murthy</h1>
 
 
 <h3 align="center">Aspiring Data Scientist || Software Engineer</h3>
