@@ -11,7 +11,7 @@ Hi there 👋
 
 - 👨‍💻 All of my projects are available at [https://github.com/GKesavamurthy1241](https://github.com/GKesavamurthy1241)
 
-- 💼 Portfolio [https://ravikantdiwakar.netlify.app/](https://ravikantdiwakar.netlify.app/)
+- 💼 Portfolio []()
 
 - 💬 Ask me about **C, Cpp, Java, Python**
 
